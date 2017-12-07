@@ -1,5 +1,8 @@
-package com.xl;
+package com.xl.annotation;
 
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
 public class User {
 	
 	private String name;
